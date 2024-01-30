@@ -7,3 +7,5 @@ The R community suffers from an under-representation of minority genders (includ
 As a diversity initiative, the mission of R-Ladies is to achieve proportionate representation by encouraging, inspiring, and empowering people of genders currently under-represented in the R community. R-Ladies’ primary focus, therefore, is on supporting minority gender R enthusiasts to achieve their programming potential, by building a collaborative global network of R leaders, mentors, learners, and developers to facilitate individual and collective progress worldwide.
 
 **R-Ladies Canberra** is the local chapter of the R-Ladies in Canberra, Australia.
+
+See also the repo [here](https://github.com/Alice1969/RLadiesCanberra) by Alice. 
